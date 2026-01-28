@@ -52,7 +52,7 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 **Output:**
 
-![SS-01 Floorplan — BS 8888](../images/floorplans_bs8888/ss_01_bs8888.png)
+![SS-01 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_01_bs8888.png)
 
 ---
 
@@ -66,7 +66,7 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 **Output:**
 
-![SS-01 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_01_iso19650.png)
+![SS-01 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_01_iso19650.png)
 
 ---
 
@@ -86,13 +86,13 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 ### Ground Floor Cross Section — BS 8888
 
-![SS-02 Floorplan — BS 8888](../images/floorplans_bs8888/ss_02_bs8888.png)
+![SS-02 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_02_bs8888.png)
 
 ---
 
 ### Ground Floor Cross Section — ISO 19650
 
-![SS-02 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_02_iso19650.png)
+![SS-02 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_02_iso19650.png)
 
 ---
 
@@ -112,13 +112,13 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 ### Ground Floor Cross Section — BS 8888
 
-![SS-03 Floorplan — BS 8888](../images/floorplans_bs8888/ss_03_bs8888.png)
+![SS-03 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_03_bs8888.png)
 
 ---
 
 ### Ground Floor Cross Section — ISO 19650
 
-![SS-03 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_03_iso19650.png)
+![SS-03 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_03_iso19650.png)
 
 ---
 
@@ -138,13 +138,13 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 ### Ground Floor Cross Section — BS 8888
 
-![SS-04 Floorplan — BS 8888](../images/floorplans_bs8888/ss_04_bs8888.png)
+![SS-04 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_04_bs8888.png)
 
 ---
 
 ### Ground Floor Cross Section — ISO 19650
 
-![SS-04 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_04_iso19650.png)
+![SS-04 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_04_iso19650.png)
 
 ---
 
@@ -164,13 +164,13 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 ### Ground Floor Cross Section — BS 8888
 
-![SS-05 Floorplan — BS 8888](../images/floorplans_bs8888/ss_05_bs8888.png)
+![SS-05 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_05_bs8888.png)
 
 ---
 
 ### Ground Floor Cross Section — ISO 19650
 
-![SS-05 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_05_iso19650.png)
+![SS-05 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_05_iso19650.png)
 
 ---
 
@@ -190,13 +190,13 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 ### Ground Floor Cross Section — BS 8888
 
-![SS-06 Floorplan — BS 8888](../images/floorplans_bs8888/ss_06_bs8888.png)
+![SS-06 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_06_bs8888.png)
 
 ---
 
 ### Ground Floor Cross Section — ISO 19650
 
-![SS-06 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_06_iso19650.png)
+![SS-06 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_06_iso19650.png)
 
 ---
 
@@ -216,13 +216,13 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 ### Ground Floor Cross Section — BS 8888
 
-![SS-07 Floorplan — BS 8888](../images/floorplans_bs8888/ss_07_bs8888.png)
+![SS-07 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_07_bs8888.png)
 
 ---
 
 ### Ground Floor Cross Section — ISO 19650
 
-![SS-07 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_07_iso19650.png)
+![SS-07 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_07_iso19650.png)
 
 ---
 
@@ -242,13 +242,13 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 ### Ground Floor Cross Section — BS 8888
 
-![SS-08 Floorplan — BS 8888](../images/floorplans_bs8888/ss_08_bs8888.png)
+![SS-08 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_08_bs8888.png)
 
 ---
 
 ### Ground Floor Cross Section — ISO 19650
 
-![SS-08 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_08_iso19650.png)
+![SS-08 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_08_iso19650.png)
 
 ---
 
@@ -268,13 +268,13 @@ Generate the horizontal cross section for the ground floorplan of this building 
 
 ### Ground Floor Cross Section — BS 8888
 
-![SS-09 Floorplan — BS 8888](../images/floorplans_bs8888/ss_09_bs8888.png)
+![SS-09 Floorplan — BS 8888](../images/template_v5_outputs/floorplans_bs8888/ss_09_bs8888.png)
 
 ---
 
 ### Ground Floor Cross Section — ISO 19650
 
-![SS-09 Floorplan — ISO 19650](../images/floorplans_iso19650/ss_09_iso19650.png)
+![SS-09 Floorplan — ISO 19650](../images/template_v5_outputs/floorplans_iso19650/ss_09_iso19650.png)
 
 ---
 
