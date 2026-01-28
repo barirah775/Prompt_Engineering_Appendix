@@ -1,6 +1,6 @@
 
 The building typology used throughout is the Late Victorian and Edwardian Sunday School:
-- [Building](../images/direct_prompting/03_late_victorian_edwardian_facade.png)
+- ![Building](../images/direct_prompting/03_late_victorian_edwardian_facade.png)
 
 Template version used:
 - Façade template: ../templates/template_v1_exterior.md

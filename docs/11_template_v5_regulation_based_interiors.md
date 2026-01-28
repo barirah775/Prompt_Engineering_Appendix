@@ -1,11 +1,12 @@
-# Template v5 — Interior  
+# Template v5 — Interior Floorplan Generation 
 ## Regulation-Based Derived Interior Template
 
 This document records isometric building perspectives and applies Template v5 (Interior) to generate horizontal cross sections of the historical Sunday School reference façades.
 The cross sections follow the BS 8888 and ISO 19650 architectural drawing standards.
 
 Template version used:
-- Interior template: ../templates/template_v5_interior.md
+
+`..templates/template_v5_interior.md`
 
 ## Reference Façade Dataset
 

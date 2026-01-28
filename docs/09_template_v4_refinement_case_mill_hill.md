@@ -1,4 +1,4 @@
-# MH-01 — Reverse Prompt → Template v4 Regeneration Refinement Case (Mill Hill)
+# Template v4 Regeneration Refinement Case (Mill Hill - SS07)
 
 This case documents a Phase 3 refinement loop using the Mill Hill Chapel Sunday School historical reference image (SS-07).
 
@@ -12,21 +12,15 @@ Template version used:
 
 ## 1) Historical Reference Image (Ground Truth — SS-07)
 
-Mill Hill Chapel Sunday School  
-Period: 1850s  
-Location: Leeds  
 
 Reference image from the historical dataset (SS-07).
 
-![MH-01 Reference — SS-07](../images/references/ss_07.png)
+![SS-07 Reference](../images/references/ss_07.png)
 
-Source:  
-Recorded in `docs/04_historical_reference_images.md`  
-(SS-07 — Mill Hill Chapel Sunday School)
 
 ---
 
-## 2) Reverse Prompt Generated From the Reference (Template v4 Format)
+## 2) Filled Template Prompt - Iteration 1
 
 Reverse prompt output (template-formatted):
 
@@ -72,6 +66,7 @@ Negative instructions: exclude all surrounding context (trees, sky, pavement, gr
 
 ## 4) Regenerated Output
 
-![MH-01 Regenerated Output](../images/template_refinement_outputs/ss_07_iter01.png)
+### Iteration 1
+![Mill Hill Iteration 1](../images/template_refinement_outputs/ss_07_iter01.png)
 
 ---

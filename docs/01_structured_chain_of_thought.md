@@ -1,6 +1,8 @@
 # Structured Chain-of-Thought Prompting
+
 This document presents a series of iteratively refined prompts (13 iterations) that progressively generate a Late Victorian and Edwardian UK school building, with the final iteration producing a ground floor plan corresponding to the exterior from Iteration 12.
 For each iteration, the prompt is shown first, followed by the generated image.
+
 ---
 
 ## Iteration 1

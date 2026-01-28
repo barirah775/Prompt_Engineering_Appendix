@@ -1,62 +1,33 @@
-# MH-03 — Reverse Prompt → Template v4 Regeneration Refinement Case (Saltaire — SS-09)
+# Template v4 Regeneration Refinement Case (Saltaire — SS-09)
 
-This case logs iterative prompt refinements (within the same façade template) used to regenerate the Saltaire Sunday School building from a historical reference image (SS-09).
+This case documents a Phase 3 refinement loop using the Saltaire Sunday School historical reference image (SS-09).
 
-The objective was to stabilise:
-- full-building capture (stepped massing + wing condition)
-- door and window counts
-- paired-arch logic (prevent arch merging)
-- façade rhythm across primary block, pavilion, and long wing
+The reference image was reverse-prompted into the Template v4 façade format.  
+The filled template prompt was then iteratively refined to test and improve architectural coherence against the reference Sunday School image.
 
 Template version used:
-- Façade template: templates/template_v4_exterior.md  
-  (same template throughout — prompt text refined iteratively)
+- Façade template: ../templates/template_v4_exterior.md
 
 ---
 
 ## 1) Historical Reference Image (Ground Truth — SS-09)
 
-Saltaire Sunday School  
-Period: 1868  
-Location: Saltaire  
-
 Reference image from the historical dataset (SS-09).
 
 ![SS-09 Reference](../images/references/ss_09.png)
 
-Source:  
-Recorded in `docs/04_historical_reference_images.md`  
-(SS-09 — Saltaire Sunday School)
-
 ---
 
-## 2) Iteration Log (Filled Template Variations)
+## 2) Filled Template Prompt — Iteration 1 (Symmetrical / Neoclassical Revival)
 
-### Iteration 1 — Initial Filled Prompt (Symmetrical / Neoclassical Revival)
-
-**Filled prompt used:**
 
 A highly detailed sepia engraving showing the three-quarter front-left elevation of a late 19th-century civic/institutional building designed in the Victorian Classical / Neoclassical Revival architectural style. The image shows the building alone against a neutral, context-free background so that the focus is entirely on the architecture. The building has a rectangular, symmetrical massing with a strong horizontal emphasis, expressed through evenly spaced bays and continuous string courses, and is depicted with full accuracy to its real proportions, materials, and form. Visible architectural details include: • roof form: low-pitched hipped roof with a pronounced overhanging cornice, classical dentil detailing beneath the eaves, and a small central roof ridge element; no dormers or chimneys visible • wall materials: smooth ashlar stone masonry in a light grey tone, with clearly defined coursing; rusticated stonework at ground-floor level; prominent stone quoins articulating the building corners • windows: tall round-arched windows at ground floor level with pronounced stone voussoirs and keystones; upper floors feature rectangular sash windows with flat stone lintels and projecting sills; windows arranged in strict vertical alignment across floors, forming a regular bay rhythm • doors: a centrally placed round-arched main entrance door with heavy stone surround, recessed opening, and paneled timber double doors • ornamentation: strong horizontal string courses separating floors; classical cornice with dentils; shallow pilaster-like vertical divisions between window bays; keystone detailing to arched openings • façade rhythm: evenly spaced multi-bay composition across both visible elevations, maintaining strict symmetry and proportional consistency • distinctive features: pronounced classical cornice line, rusticated base level, arched fenestration at ground floor contrasting with rectangular upper windows, corner emphasis through stone quoins Render all materials (stone masonry and carved stone detailing) with accurate texture and detail. The building should appear complete and undistorted, with no perspective exaggeration unless intentionally specified. Negative instructions: exclude all surrounding context (trees, sky, pavement, ground, foliage, shadows, people, cars, signs), and exclude any invented or modern elements not present in the described architecture.
 
-**Regenerated output:**
-
-![SS-09 Iteration 1 Output](../images/refinement_cases/ss_09_iter01.png)
-
-**Comparison notes:**
-
-**Matches:**
-- [fill]
-
-**Mismatches:**
-- Full building not captured  
-- Door/window arrangement not captured  
-- Overall structure simplified  
 
 ---
 
-### Iteration 2 — Tightened Roof + Two-Storey + Arches Both Levels
+## 3) Filled Template Prompt — Iteration 2 (Tightened Roof + Two-Storey + Arches Both Levels)
 
-**Filled prompt used:**
 
 A highly detailed sepia engraving showing the three-quarter front-left elevation of a late 19th-century civic/institutional building designed in the Victorian Classical / Italianate Neoclassical Revival architectural style. The image shows the building alone against a neutral, context-free background so that the focus is entirely on the architecture.
 The building has a rectangular, two-storey symmetrical massing with a pronounced horizontal emphasis, clearly divided by string courses, and is depicted with full accuracy to its real proportions, materials, and form.
@@ -76,24 +47,9 @@ Visible architectural details include:
 Render all materials (brick or stone masonry, carved stone detailing, timber doors, slate or metal roofing) with accurate texture and period-authentic engraving linework. The building should appear complete and undistorted, with no perspective exaggeration unless intentionally specified.
 Negative instructions: exclude all surrounding context (trees, sky, pavement, ground, foliage, shadows, people, cars, signs), and exclude any invented, modern, or simplified elements not present in the described architecture.
 
-**Regenerated output:**
-
-![SS-09 Iteration 2 Output](../images/refinement_cases/ss_09_iter02.png)
-
-**Comparison notes:**
-
-**Matches:**
-- [fill]
-
-**Mismatches:**
-- Structure still averages to generic civic block  
-- Door/window counts drift  
-
 ---
 
-### Iteration 3 — Corner Condition + Explicit Counts (1 Door Assumption)
-
-**Filled prompt used:**
+## 4) Filled Template Prompt — Iteration 3 (Corner Condition + Explicit Counts (1 Door Assumption)
 
 A highly detailed sepia engraving showing the three-quarter front-left elevation of a late 19th-century civic/institutional building designed in the Victorian Classical / Italianate Neoclassical Revival architectural style. The image shows the building alone against a neutral, context-free background so that the focus is entirely on the architecture.
 
@@ -142,24 +98,10 @@ Render all materials (brick masonry, carved brick detailing, timber doors, slate
 
 Negative instructions: exclude all surrounding context (trees, sky, pavement, ground, foliage, shadows, people, cars, signs), and exclude any invented, modern, or simplified elements not present in the described architecture.
 
-**Regenerated output:**
-
-![SS-09 Iteration 3 Output](../images/refinement_cases/ss_09_iter03.png)
-
-**Comparison notes:**
-
-**Matches:**
-- [fill]
-
-**Mismatches:**
-- Reference actually has two doors  
-- Overall layout still simplified  
 
 ---
 
-### Iteration 4 — Stepped Massing + Two Doors (Pediment + Pavilion + Long Wing)
-
-**Filled prompt used:**
+## 5) Filled Template Prompt — Iteration 4 (Stepped Massing + Two Doors (Pediment + Pavilion + Long Wing))
 
 A highly detailed sepia engraving showing the three-quarter front-left elevation of a late 19th-century civic/institutional building designed in the Victorian Classical / Italianate Neoclassical Revival architectural style. The image shows the building alone against a neutral, context-free background so that the focus is entirely on the architecture.
 The building has a stepped, multi-volume massing (a taller principal front block plus a projecting right-front pavilion plus a longer rear/right wing), and is depicted with full accuracy to its real proportions, materials, and form.
@@ -182,24 +124,9 @@ Visible architectural details include:
 Render all materials (brick masonry, carved/formed brick arch heads, timber doors, metal or slate roofing) with accurate texture and period-authentic engraving linework. The building should appear complete and undistorted, with no perspective exaggeration unless intentionally specified.
 Negative instructions: exclude all surrounding context (trees, sky, pavement, ground, foliage, shadows, people, cars, signs), and exclude any invented or modern elements not present in the described architecture.
 
-**Regenerated output:**
-
-![SS-09 Iteration 4 Output](../images/refinement_cases/ss_09_iter04.png)
-
-**Comparison notes:**
-
-**Matches:**
-- [fill]
-
-**Mismatches:**
-- Window/door numbers still drift across generations  
-- Paired arches sometimes collapse into single repeated arches  
-
 ---
 
-### Iteration 5 — “Blueprint-Style” Hard Constraints (Do Not Deviate)
-
-**Filled prompt used:**
+## 6) Filled Template Prompt — Iteration 4 (“Blueprint-Style” Hard Constraints (Do Not Deviate))
 
 A highly detailed sepia engraving showing the three-quarter front-left elevation of a late 19th-century civic/institutional building designed in the Victorian Classical / Italianate Neoclassical Revival architectural style. The image shows the building alone against a neutral, context-free background so that the focus is entirely on the architecture.
 The building has a stepped, multi-volume massing (a taller principal front block plus a projecting right-front pavilion plus a longer rear/right wing), and is depicted with full accuracy to its real proportions, materials, and form.
@@ -223,24 +150,23 @@ No third door. No side doors. No extra arched entrances.
 Render all materials (brick masonry, formed brick arch heads, timber doors, metal or slate roofing) with accurate texture and period-authentic engraving linework. The building should appear complete and undistorted, with no perspective exaggeration unless intentionally specified.
 Negative instructions: exclude all surrounding context (trees, sky, pavement, ground, foliage, shadows, people, cars, signs), and exclude any invented, modern, or simplified elements not present in the described architecture. Also exclude stairs, entry steps, platforms, porches, towers, domes, extra doors, extra arches, and any additional windows beyond the specified counts.
 
-**Regenerated outputs:**
-
-![SS-09 Iteration 5 Output](../images/refinement_cases/ss_09_iter05.png)
-
-![SS-09 Iteration 5 Best Output](../images/refinement_cases/ss_09_iter05_best.png)
-
-**Comparison notes:**
-
-**Matches:**
-- [fill]
-
-**Mismatches:**
-- [fill]
-
 ---
 
-## 3) Summary (Optional)
+## 7) Regenerated Outputs
 
-- Best-performing prompt variant: Iteration [__]  
-- Persistent failure mode(s): [e.g. window counts drift / arch merging / extra openings invented]  
-- Next refinement idea: [e.g. reduce descriptors, move counts earlier, add “ONLY these openings exist” line earlier]  
+### Iteration 1
+![Saltaire Iteration 1](../images/template_refinement_outputs/ss_09_iter01.png)
+
+### Iteration 2
+![Saltaire Iteration 2](../images/template_refinement_outputs/ss_09_iter02.png)
+
+### Iteration 3
+![Saltaire Iteration 3](../images/template_refinement_outputs/ss_09_iter03.png)
+
+### Iteration 4
+![Saltaire Iteration 4](../images/template_refinement_outputs/ss_09_iter04.png)
+
+### Iteration 5
+![Saltaire Iteration 5](../images/template_refinement_outputs/ss_09_iter05.png)
+
+---

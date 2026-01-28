@@ -1,5 +1,6 @@
 # Interior Ground Floorplan Results – Attribute-Based Evaluation
 This document presents interior ground floorplan evaluation results for Sunday School buildings generated using the latest template for interior images (v5)
+The generated floorplans that followed the BS8888 standards were validated, with ChatGPT being prompted to incorporate room labels to each floorplan.
 
 Scoring:  
 **1 = condition met, 0 = condition not met**

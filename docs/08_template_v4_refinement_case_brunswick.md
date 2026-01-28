@@ -1,4 +1,4 @@
-# MH-02 — Reverse Prompt → Template v4 Regeneration Refinement Case (Brunswick — SS-05)
+# Template v4 Regeneration Refinement Case (Brunswick — SS-05)
 
 This case documents a Phase 3 refinement loop using the Brunswick Methodist Sunday School historical reference image (SS-05).
 
@@ -12,17 +12,9 @@ Template version used:
 
 ## 1) Historical Reference Image (Ground Truth — SS-05)
 
-Brunswick Methodist Sunday School  
-Period: 1825  
-Location: Manchester  
-
 Reference image from the historical dataset (SS-05).
 
 ![MH-02 Reference — SS-05](../images/references/ss_05.png)
-
-Source:  
-Recorded in `docs/04_historical_reference_images.md`  
-(SS-05 — Brunswick Methodist Sunday School)
 
 ---
 

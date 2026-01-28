@@ -1,4 +1,4 @@
-# MH-03 — Reverse Prompt → Template v4 Regeneration Refinement Case (Saltaire — SS-09)
+# Template v4 Regeneration Refinement Case (Saltaire — SS-09)
 
 This case documents a Phase 3 refinement loop using the Saltaire Sunday School historical reference image (SS-09).
 
