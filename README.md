@@ -6,6 +6,18 @@ This repository contains the full appendix for our paper "Ontology-Guided Prompt
 
 ## Repository Structure
 
+│
+├── docs/
+├── images/
+├── results/
+└── templates/
+
+
+
+---
+
+## Folder Descriptions
+
 ### `docs/`
 
 Contains the main written documentation for each prompt engineering strategy and experiment.  
