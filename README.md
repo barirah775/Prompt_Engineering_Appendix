@@ -3,19 +3,6 @@
 This repository contains the full appendix for our paper "Ontology-Guided Prompt Engineering for contextually accurate Generative AI in Heritage Building Information Modelling". It documents different prompting methods, templates, and experimental results using structured markdown files and supporting image outputs.
 
 ---
-
-## Repository Structure
-
-│
-├── docs/
-├── images/
-├── results/
-└── templates/
-
-
-
----
-
 ## Folder Descriptions
 
 ### `docs/`
@@ -47,17 +34,17 @@ These documents describe:
 Contains all generated image outputs referenced in the documentation.  
 Images are grouped into subfolders according to experiment type or prompt strategy:
 
-- `structured_chain/`  
-- `direct_prompting/`  
-- `boolean_logic_prompting/`  
-- `natural_language_weighting/`  
-- `references/`  
-- `isometrics/`  
-- `template_v1_outputs/`  
-- `template_v4_outputs/`  
-- `template_v5_outputs/`  
-- `template_refinement_outputs/`  
-
+- `01_structured_chain/`  
+- `02_direct_prompting/`  
+- `03_boolean_logic_prompting/`  
+- `04_natural_language_weighting/`  
+- `05_references/`  
+- `06_template_v1_outputs/` 
+- `07_template_refinement_outputs/`  
+- `08_template_v4_outputs/`  
+- `09_isometrics/`   
+- `10_template_v5_outputs/` 
+  
 These folders contain generated:
 - Facades  
 - Floorplans  
