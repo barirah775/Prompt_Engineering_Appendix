@@ -14,7 +14,7 @@ The filled template prompt was then used to regenerate the building in order to 
 
 Reference image from the historical dataset (SS-07).
 
-![SS-07 Reference](../images/references/ss_07.png)
+![SS-07 Reference](../images/05_references/ss_07.png)
 
 ---
 
@@ -96,4 +96,4 @@ Exclude all surrounding context (trees, sky, pavement, ground, foliage, shadows,
 
 ### Iteration 1
 
-![Mill Hill Iteration 1](../images/template_refinement_outputs/ss_07_iter01.png)
+![Mill Hill Iteration 1](../images/07_template_refinement_outputs/ss_07_iter01.png)

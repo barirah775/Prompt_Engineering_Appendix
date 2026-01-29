@@ -10,10 +10,10 @@ Scoring:
 ## 1780s – Long Millgate Sunday School
 
 **Reference Image:**  
-![Reference](../images/references/ss_01.png)
+![Reference](../images/05_references/ss_01.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_01_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_01_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **1**  
@@ -46,10 +46,10 @@ Scoring:
 ## 1784–1805 – Stockport Sunday School
 
 **Reference Image:**  
-![Reference](../images/references/ss_02.png)
+![Reference](../images/05_references/ss_02.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_02_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_02_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **0**  
@@ -82,10 +82,10 @@ Scoring:
 ## 1809 – Ashton-under-Lyne Sunday School
 
 **Reference Image:**  
-![Reference](../images/references/ss_03.png)
+![Reference](../images/05_references/ss_03.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_03_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_03_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **1**  
@@ -118,10 +118,10 @@ Scoring:
 ## 1820s – Blythewood Sunday School
 
 **Reference Image:**  
-![Reference](../images/references/ss_04.png)
+![Reference](../images/05_references/ss_04.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_04_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_04_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **0**  
@@ -154,10 +154,10 @@ Scoring:
 ## 1825 – Brunswick Methodist Sunday School
 
 **Reference Image:**  
-![Reference](../images/references/ss_05.png)
+![Reference](../images/05_references/ss_05.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_05_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_05_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **1**  
@@ -190,10 +190,10 @@ Scoring:
 ## 1830s–1840s – Hope Chapel Sunday School
 
 **Reference Image:**  
-![Reference](../images/references/ss_06.png)
+![Reference](../images/05_references/ss_06.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_06_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_06_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **1**  
@@ -226,10 +226,10 @@ Scoring:
 ## 1850s – Mill Hill Chapel Sunday School
 
 **Reference Image:**  
-![Reference](../images/references/ss_07.png)
+![Reference](../images/05_references/ss_07.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_07_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_07_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **0**  
@@ -262,10 +262,10 @@ Scoring:
 ## 1860s – Ebenezer Congregational Sunday School
 
 **Reference Image:**  
-![Reference](../images/reference/ss_08.png)
+![Reference](../images/05_reference/ss_08.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_08_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_08_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **1**  
@@ -298,10 +298,10 @@ Scoring:
 ## 1868 – Saltaire Sunday School
 
 **Reference Image:**  
-![Reference](../images/references/ss_09.png)
+![Reference](../images/05_references/ss_09.png)
 
 **Generated Output:**  
-![Output](../images/template_v4_outputs/ss_09_v5_facade.png)
+![Output](../images/08_template_v4_outputs/ss_09_v5_facade.png)
 
 ### Door & Window Arrangement
 - Entrance doors: **1**  

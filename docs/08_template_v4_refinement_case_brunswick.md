@@ -14,7 +14,7 @@ The filled template prompt was then iteratively refined to test and improve arch
 
 Reference image from the historical dataset (SS-05).
 
-![MH-02 Reference — SS-05](../images/references/ss_05.png)
+![MH-02 Reference — SS-05](../images/05_references/ss_05.png)
 
 ---
 
@@ -136,10 +136,10 @@ Specifically exclude any third window beneath the oculus.
 ## 5) Regenerated Outputs
 
 ### Iteration 0
-![Brunswick Iteration 0](../images/template_refinement_outputs/ss_05_iter01.png)
+![Brunswick Iteration 0](../images/07_template_refinement_outputs/ss_05_iter01.png)
 
 ### Iteration 1
-![Brunswick Iteration 1](../images/template_refinement_outputs/ss_05_iter02.png)
+![Brunswick Iteration 1](../images/07_template_refinement_outputs/ss_05_iter02.png)
 
 ### Iteration 2
-![Brunswick Iteration 2](../images/template_refinement_outputs/ss_05_iter03.png)
+![Brunswick Iteration 2](../images/07_template_refinement_outputs/ss_05_iter03.png)

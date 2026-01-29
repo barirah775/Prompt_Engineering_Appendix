@@ -22,7 +22,7 @@ Tests blending of overlapping Victorian and Edwardian traits.
 
 **Output:**
 
-![Victorian AND Edwardian](../images/boolean_logic_prompting/01_boolean.png)
+![Victorian AND Edwardian](../images/03_boolean_logic_prompting/01_boolean.png)
 
 ---
 
@@ -36,7 +36,7 @@ Allows the model to choose either Victorian or Edwardian traits.
 
 **Output:**
 
-![Victorian OR Edwardian](../images/boolean_logic_prompting/02_boolean.png)
+![Victorian OR Edwardian](../images/03_boolean_logic_prompting/02_boolean.png)
 
 ---
 
@@ -50,7 +50,7 @@ Excludes Edwardian elements to isolate pure Victorian traits.
 
 **Output:**
 
-![Victorian NOT Edwardian](../images/boolean_logic_prompting/03_boolean.png)
+![Victorian NOT Edwardian](../images/03_boolean_logic_prompting/03_boolean.png)
 
 ---
 
@@ -64,7 +64,7 @@ Tests whether term order affects architectural weighting.
 
 **Output:**
 
-![Edwardian AND Victorian](../images/boolean_logic_prompting/04_boolean.png)
+![Edwardian AND Victorian](../images/03_boolean_logic_prompting/04_boolean.png)
 
 ---
 
@@ -78,7 +78,7 @@ Tests subtle semantic priority.
 
 **Output:**
 
-![Edwardian OR Victorian](../images/boolean_logic_prompting/05_boolean.png)
+![Edwardian OR Victorian](../images/03_boolean_logic_prompting/05_boolean.png)
 
 ---
 
@@ -93,7 +93,7 @@ Establishes a control façade for Victorian stylistic language.
 
 **Output:**
 
-![Late Victorian](../images/boolean_logic_prompting/06_boolean.png)
+![Late Victorian](../images/03_boolean_logic_prompting/06_boolean.png)
 
 ---
 
@@ -107,7 +107,7 @@ Establishes a control façade for Edwardian stylistic language.
 
 **Output:**
 
-![Late Edwardian](../images/boolean_logic_prompting/07_boolean.png)
+![Late Edwardian](../images/03_boolean_logic_prompting/07_boolean.png)
 
 ---
 
@@ -121,7 +121,7 @@ Tests blended architectural phrasing without symbolic logic.
 
 **Output:**
 
-![Victorian Edwardian Transition](../images/boolean_logic_prompting/08_boolean.png)
+![Victorian Edwardian Transition](../images/03_boolean_logic_prompting/08_boolean.png)
 
 ---
 
@@ -140,7 +140,7 @@ Victorian dominance with subtle Edwardian refinement.
 
 **Output:**
 
-![Predominantly Victorian](../images/natural_language_weighting/01_language.png)
+![Predominantly Victorian](../images/04_natural_language_weighting/01_language.png)
 
 ---
 
@@ -151,7 +151,7 @@ Transitional geometry.
 
 **Output:**
 
-![Emerging Edwardian](../images/natural_language_weighting/02_language.png)
+![Emerging Edwardian](../images/04_natural_language_weighting/02_language.png)
 
 ---
 
@@ -162,7 +162,7 @@ Edwardian planning with lingering Victorian decoration.
 
 **Output:**
 
-![Late Edwardian Residual](../images/natural_language_weighting/03_language.png)
+![Late Edwardian Residual](../images/04_natural_language_weighting/03_language.png)
 
 ---
 
@@ -173,7 +173,7 @@ Early Edwardian transitional typology.
 
 **Output:**
 
-![Early Edwardian](../images/natural_language_weighting/04_language.png)
+![Early Edwardian](../images/04_natural_language_weighting/04_language.png)
 
 ---
 
@@ -184,7 +184,7 @@ Victorian verticality and monumentality.
 
 **Output:**
 
-![Late Victorian Institutional](../images/natural_language_weighting/05_language.png)
+![Late Victorian Institutional](../images/04_natural_language_weighting/05_language.png)
 
 ---
 
@@ -195,7 +195,7 @@ Edwardian formality with Victorian decorative accents.
 
 **Output:**
 
-![Edwardian Civic](../images/natural_language_weighting/06_language.png)
+![Edwardian Civic](../images/04_natural_language_weighting/06_language.png)
 
 ---
 
@@ -206,7 +206,7 @@ Equal stylistic weighting.
 
 **Output:**
 
-![Balanced Hybrid](../images/natural_language_weighting/07_language.png)
+![Balanced Hybrid](../images/04_natural_language_weighting/07_language.png)
 
 ---
 
@@ -217,7 +217,7 @@ Edwardian dominance.
 
 **Output:**
 
-![Predominantly Edwardian](../images/natural_language_weighting/08_language.png)
+![Predominantly Edwardian](../images/04_natural_language_weighting/08_language.png)
 
 ---
 
@@ -228,7 +228,7 @@ Simplified revival.
 
 **Output:**
 
-![Edwardian Refinement](../images/natural_language_weighting/09_language.png)
+![Edwardian Refinement](../images/04_natural_language_weighting/09_language.png)
 
 ---
 
@@ -239,7 +239,7 @@ Revivalist reinterpretation.
 
 **Output:**
 
-![Victorian Revival Edwardian](../images/natural_language_weighting/10_language.png)
+![Victorian Revival Edwardian](../images/04_natural_language_weighting/10_language.png)
 
 ---
 

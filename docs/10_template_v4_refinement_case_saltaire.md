@@ -14,7 +14,7 @@ The filled template prompt was then iteratively refined to test and improve arch
 
 Reference image from the historical dataset (SS-09).
 
-![SS-09 Reference](../images/references/ss_09.png)
+![SS-09 Reference](../images/05_references/ss_09.png)
 
 ---
 
@@ -237,16 +237,16 @@ Exclude all surrounding context (trees, sky, pavement, ground, foliage, shadows,
 ## 7) Regenerated Outputs
 
 ### Iteration 1
-![Saltaire Iteration 1](../images/template_refinement_outputs/ss_09_iter01.png)
+![Saltaire Iteration 1](../images/07_template_refinement_outputs/ss_09_iter01.png)
 
 ### Iteration 2
-![Saltaire Iteration 2](../images/template_refinement_outputs/ss_09_iter02.png)
+![Saltaire Iteration 2](../images/07_template_refinement_outputs/ss_09_iter02.png)
 
 ### Iteration 3
-![Saltaire Iteration 3](../images/template_refinement_outputs/ss_09_iter03.png)
+![Saltaire Iteration 3](../images/07_template_refinement_outputs/ss_09_iter03.png)
 
 ### Iteration 4
-![Saltaire Iteration 4](../images/template_refinement_outputs/ss_09_iter04.png)
+![Saltaire Iteration 4](../images/07_template_refinement_outputs/ss_09_iter04.png)
 
 ### Iteration 5
-![Saltaire Iteration 5](../images/template_refinement_outputs/ss_09_iter05.png)
+![Saltaire Iteration 5](../images/07_template_refinement_outputs/ss_09_iter05.png)

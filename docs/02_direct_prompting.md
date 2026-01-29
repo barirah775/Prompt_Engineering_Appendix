@@ -16,7 +16,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![Medieval-Georgian Floorplan](../images/direct_prompting/01_medieval_georgian_floorplan.png)
+![Medieval-Georgian Floorplan](../images/02_direct_prompting/01_medieval_georgian_floorplan.png)
 
 ---
 
@@ -28,7 +28,7 @@ The central façade features a tall gable with arched windows, flanked by square
 Composition is symmetrical, window rhythm matches the plan, and materials include slate roofing and stone trim.  
 Rendered in limited daylight, orthographic projection, realistic materials, no people or text.
 
-![Medieval-Georgian Façade](../images/direct_prompting/01_medieval_georgian_facade.png)
+![Medieval-Georgian Façade](../images/02_direct_prompting/01_medieval_georgian_facade.png)
 
 ---
 
@@ -43,7 +43,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![Early-Victorian Floorplan](../images/direct_prompting/02_early_mid_victorian_floorplan.png)
+![Early-Victorian Floorplan](../images/02_direct_prompting/02_early_mid_victorian_floorplan.png)
 
 ---
 
@@ -55,7 +55,7 @@ The central façade features a tall gable with arched windows, flanked by square
 Composition is symmetrical, window rhythm matches the plan, and materials include slate roofing and stone trim.  
 Rendered in maximised daylight, orthographic projection, realistic materials, no people or text.
 
-![Early-Victorian Façade](../images/direct_prompting/02_early_mid_victorian_facade.png)
+![Early-Victorian Façade](../images/02_direct_prompting/02_early_mid_victorian_facade.png)
 
 ---
 
@@ -70,7 +70,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![Late-Victorian Floorplan](../images/direct_prompting/03_late_victorian_edwardian_floorplan.png)
+![Late-Victorian Floorplan](../images/02_direct_prompting/03_late_victorian_edwardian_floorplan.png)
 
 ---
 
@@ -82,7 +82,7 @@ The central façade features a tall gable with arched windows, flanked by square
 Composition is symmetrical, window rhythm matches the plan, and materials include slate roofing and stone trim.  
 Rendered in soft daylight, orthographic projection, realistic materials, no people or text.
 
-![Late-Victorian Façade](../images/direct_prompting/03_late_victorian_edwardian_facade.png)
+![Late-Victorian Façade](../images/02_direct_prompting/03_late_victorian_edwardian_facade.png)
 
 ---
 
@@ -97,7 +97,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![Interwar Floorplan](../images/direct_prompting/04_interwar_openair_floorplan.png)
+![Interwar Floorplan](../images/02_direct_prompting/04_interwar_openair_floorplan.png)
 
 ---
 
@@ -109,7 +109,7 @@ The central façade features a single-storey pavilion layout with south-facing c
 Composition is symmetrical, window rhythm matches the plan, and materials include brick and steel windows.  
 Rendered in soft daylight, orthographic projection, realistic materials, no people or text.
 
-![Interwar Façade](../images/direct_prompting/04_interwar_openair_facade.png)
+![Interwar Façade](../images/02_direct_prompting/04_interwar_openair_facade.png)
 
 ---
 
@@ -124,7 +124,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![Postwar Floorplan](../images/direct_prompting/05_immediate_postwar_floorplan.png)
+![Postwar Floorplan](../images/02_direct_prompting/05_immediate_postwar_floorplan.png)
 
 ---
 
@@ -135,7 +135,7 @@ The structure uses high glazing, panel infill and flat roofs.
 The central façade features cellular classrooms with specialist rooms, assembly/dining halls as central “hearts”, and external covered ways.  
 Composition is symmetrical, window rhythm matches the plan, and materials include flat roofs, panel infill and high glazing.
 
-![Postwar Façade](../images/direct_prompting/05_immediate_postwar_facade.png)
+![Postwar Façade](../images/02_direct_prompting/05_immediate_postwar_facade.png)
 
 ---
 
@@ -150,7 +150,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![System Floorplan](../images/direct_prompting/06_system_building_openplan_floorplan.png)
+![System Floorplan](../images/02_direct_prompting/06_system_building_openplan_floorplan.png)
 
 ---
 
@@ -162,7 +162,7 @@ The central façade consists of open-plan “home-bases” with moveable screens
 Composition is based on prefabricated modular systems (CLASP, SCOLA), using light-gauge steel or timber frames, standard bays, dry cladding panels and non-loadbearing partitions.  
 Rendered in soft daylight, orthographic projection, realistic materials, no people or text.
 
-![System Façade](../images/direct_prompting/06_system_building_openplan_facade.png)
+![System Façade](../images/02_direct_prompting/06_system_building_openplan_facade.png)
 
 ---
 
@@ -177,7 +177,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![Post-oil Floorplan](../images/direct_prompting/07_postoil_rationalisation_floorplan.png)
+![Post-oil Floorplan](../images/02_direct_prompting/07_postoil_rationalisation_floorplan.png)
 
 ---
 
@@ -189,7 +189,7 @@ The central façade features a repartitioned open-plan with a deep atrium.
 Composition includes value-engineered claddings and brick skins over frames for robustness.  
 Rendered in mixed-mode solar-controlled daylight, orthographic projection, realistic materials, no people or text.
 
-![Post-oil Façade](../images/direct_prompting/07_postoil_rationalisation_facade.png)
+![Post-oil Façade](../images/02_direct_prompting/07_postoil_rationalisation_facade.png)
 
 ---
 
@@ -204,7 +204,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![PFI Floorplan](../images/direct_prompting/08_pfi_bsf_floorplan.png)
+![PFI Floorplan](../images/02_direct_prompting/08_pfi_bsf_floorplan.png)
 
 ---
 
@@ -216,7 +216,7 @@ The central façade features a large comprehensive campus with learning streets,
 Composition is symmetrical, window rhythm matches the plan, and materials include brick, rainscreen cladding and ETFE/atrium glazing.  
 Rendered in daylight with solar control, orthographic projection, realistic materials, no people or text.
 
-![PFI Façade](../images/direct_prompting/08_pfi_bsf_facade.png)
+![PFI Façade](../images/02_direct_prompting/08_pfi_bsf_facade.png)
 
 ---
 
@@ -231,7 +231,7 @@ Doors and windows are shown accurately, symmetrically aligned, and evenly spaced
 Black linework on light parchment background, true 1:100 scale, no text or labels.  
 --no text, annotations, people, furniture, shadows, 2D perspective
 
-![PSBP Floorplan](../images/direct_prompting/09_psbp_standardisation_floorplan.png)
+![PSBP Floorplan](../images/02_direct_prompting/09_psbp_standardisation_floorplan.png)
 
 ---
 
@@ -243,4 +243,4 @@ The central façade features a standardised block with repeatable classroom bars
 Composition is symmetrical, window rhythm matches the plan.  
 Rendered in soft daylight, orthographic projection, realistic materials, no people or text.
 
-![PSBP Façade](../images/direct_prompting/09_psbp_standardisation_facade.png)
+![PSBP Façade](../images/02_direct_prompting/09_psbp_standardisation_facade.png)
