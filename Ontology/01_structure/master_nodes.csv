@@ -1,0 +1,72 @@
+nodes1
+Id,Label,Type
+Historical Character,Historical Character,Group
+Spatial Organisation,Spatial Organisation,Feature
+Room Type,Room Type,Feature
+Structural Layout,Structural Layout,Feature
+Openings in Plan,Openings in Plan,Feature
+Drawing / Prompt Controls,Drawing / Prompt Controls,Feature
+Historical Plan Character,Historical Plan Character,Group
+symmetry,symmetry,Feature
+window spacing,window spacing,Feature
+door placement,door placement,Feature
+material palette,material palette,Feature
+orthographic view,orthographic view,Feature
+period identity,period identity,Feature
+Exterior,Exterior,Feature
+Interior,Interior,Feature
+Façade Composition,Façade Composition,Feature
+Openings,Openings,Feature
+Roof Design,Roof Design,Feature
+Materials & Construction,Materials & Construction,Feature
+Decorative / Style Features,Decorative / Style Features,Group
+Visual / Prompt Controls,Visual / Prompt Controls,Feature
+secondary rooms,secondary rooms,Feature
+room labels,room labels,Feature
+typological character,typological character,Group
+hall layout,hall layout,Feature
+classroom arrangement,classroom arrangement,Feature
+corridor layout,corridor layout,Feature
+room proportions,room proportions,Feature
+symmetry in plan,symmetry in plan,Feature
+hall,hall,Feature
+classrooms,classrooms,Feature
+external wall thickness,external wall thickness,Feature
+internal wall thickness,internal wall thickness,Feature
+wall placement logic,wall placement logic,Feature
+masonry / brick or stone construction,masonry / brick or stone construction,Feature
+window positions,window positions,Feature
+door locations,door locations,Feature
+opening rhythm in plan,opening rhythm in plan,Feature
+orthographic floorplan,orthographic floorplan,Feature
+scale,scale,Feature
+black linework,black linework,Feature
+light parchment background,light parchment background,Feature
+period plan logic,period plan logic,Feature
+typological layout,typological layout,Feature
+bay arrangement,bay arrangement,Feature
+façade rhythm,façade rhythm,Feature
+storey organisation,storey organisation,Feature
+window style,window style,Group
+window shape,window shape,Feature
+door style,door style,Group
+opening alignment,opening alignment,Feature
+roof type,roof type,Feature
+roof pitch,roof pitch,Feature
+parapet / gable form,parapet / gable form,Feature
+chimney / roofline details,chimney / roofline details,Feature
+brickwork,brickwork,Feature
+stone dressings,stone dressings,Feature
+surface texture,surface texture,Feature
+ornamentation,ornamentation,Feature
+pilasters / vertical divisions,pilasters / vertical divisions,Feature
+string courses / trim,string courses / trim,Feature
+stylistic language,stylistic language,Feature
+daylight rendering,daylight rendering,Feature
+neutral background,neutral background,Feature
+no people or contextual clutter,no people or contextual clutter,Feature
+kitchen,kitchen,Feature
+boiler room,boiler room,Feature
+storage,storage,Feature
+office,office,Feature
+toilets,toilets,Feature

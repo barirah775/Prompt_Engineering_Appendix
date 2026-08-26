@@ -1,0 +1,24 @@
+Source,Target,Type,Label
+Structure,span,Directed,HAS_FEATURE
+Structure,structural_type,Directed,HAS_FEATURE
+Structure,Spatial Organisation,Directed,CONSTRAINS
+Structure,Room Type,Directed,DEFINES_LIMITS_OF
+Spatial Organisation,zoning,Directed,HAS_FEATURE
+Spatial Organisation,layout_type,Directed,HAS_FEATURE
+Spatial Organisation,Room Type,Directed,ARRANGES
+Room Type,Spatial Organisation,Directed,IS_ARRANGED_BY
+Spatial Organisation,Circulation,Directed,DEFINES
+Circulation,Spatial Organisation,Directed,FOLLOWS
+Room Type,size,Directed,HAS_FEATURE
+Room Type,function,Directed,HAS_FEATURE
+Room Type,Circulation,Directed,IS_CONNECTED_TO
+Circulation,Room Type,Directed,CONNECTS
+Lighting,natural_light,Directed,HAS_FEATURE
+Lighting,source,Directed,HAS_FEATURE
+Lighting,Room Type,Directed,ILLUMINATES
+Circulation,type,Directed,HAS_FEATURE
+Circulation,connectivity,Directed,HAS_FEATURE
+Interior,Room Type,Directed,INCLUDES
+Interior,Spatial Organisation,Directed,INCLUDES
+Interior,Circulation,Directed,INCLUDES
+Interior,Structure,Directed,IS_CONSTRAINED_BY

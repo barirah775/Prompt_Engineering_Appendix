@@ -1,0 +1,104 @@
+edges1
+Source,Target,Type,Label
+Historical Character,period identity,Directed,INCLUDES
+Historical Character,typological character,Directed,INCLUDES
+Historical Character,Façade Composition,Directed,INFORMS
+Historical Character,Openings,Directed,INFORMS
+Historical Character,Roof Design,Directed,INFORMS
+Historical Character,Materials & Construction,Directed,INFORMS
+Historical Character,Decorative / Style Features,Directed,INFORMS
+Historical Character,Historical Plan Character,Directed,CONSTRAINS
+Spatial Organisation,hall layout,Directed,INCLUDES
+Spatial Organisation,classroom arrangement,Directed,INCLUDES
+Spatial Organisation,corridor layout,Directed,INCLUDES
+Spatial Organisation,room proportions,Directed,INCLUDES
+Spatial Organisation,symmetry in plan,Directed,INCLUDES
+Spatial Organisation,Room Type,Directed,ORGANISES
+Room Type,hall,Directed,INCLUDES
+Room Type,classrooms,Directed,INCLUDES
+Room Type,secondary rooms,Directed,INCLUDES
+Structural Layout,external wall thickness,Directed,INCLUDES
+Structural Layout,internal wall thickness,Directed,INCLUDES
+Structural Layout,wall placement logic,Directed,INCLUDES
+Structural Layout,masonry / brick or stone construction,Directed,INCLUDES
+Structural Layout,Openings in Plan,Directed,CONSTRAINS
+Openings in Plan,window positions,Directed,INCLUDES
+Openings in Plan,door locations,Directed,INCLUDES
+Openings in Plan,opening rhythm in plan,Directed,INCLUDES
+Drawing / Prompt Controls,orthographic floorplan,Directed,INCLUDES
+Drawing / Prompt Controls,scale,Directed,INCLUDES
+Drawing / Prompt Controls,black linework,Directed,INCLUDES
+Drawing / Prompt Controls,light parchment background,Directed,INCLUDES
+Drawing / Prompt Controls,room labels,Directed,INCLUDES
+Drawing / Prompt Controls,Spatial Organisation,Directed,REPRESENTS
+Historical Plan Character,period plan logic,Directed,INCLUDES
+Historical Plan Character,typological layout,Directed,INCLUDES
+Historical Plan Character,Spatial Organisation,Directed,INFORMS
+Historical Plan Character,Room Type,Directed,INFORMS
+Historical Plan Character,Structural Layout,Directed,INFORMS
+symmetry,symmetry in plan,Directed,REINFORCES
+window spacing,opening rhythm in plan,Directed,MUST_MATCH
+door placement,hall,Directed,ALIGNS_WITH
+door placement,door locations,Directed,ALIGNS_WITH
+material palette,masonry / brick or stone construction,Directed,CORRESPONDS_TO
+orthographic view,orthographic floorplan,Directed,MIRRORS
+period identity,period plan logic,Directed,CONSTRAINS
+Exterior,Historical Character,Directed,CONTAINS
+Exterior,Façade Composition,Directed,CONTAINS
+Exterior,Openings,Directed,CONTAINS
+Exterior,Roof Design,Directed,CONTAINS
+Exterior,Materials & Construction,Directed,CONTAINS
+Exterior,Decorative / Style Features,Directed,CONTAINS
+Exterior,Visual / Prompt Controls,Directed,CONTAINS
+Interior,Spatial Organisation,Directed,CONTAINS
+Interior,Room Type,Directed,CONTAINS
+Interior,Structural Layout,Directed,CONTAINS
+Interior,Openings in Plan,Directed,CONTAINS
+Interior,Drawing / Prompt Controls,Directed,CONTAINS
+Interior,Historical Plan Character,Directed,CONTAINS
+Façade Composition,symmetry,Directed,INCLUDES
+Façade Composition,bay arrangement,Directed,INCLUDES
+Façade Composition,façade rhythm,Directed,INCLUDES
+Façade Composition,storey organisation,Directed,INCLUDES
+Façade Composition,Openings,Directed,ORGANISES
+Façade Composition,Spatial Organisation,Directed,ALIGNS_WITH
+Openings,window style,Directed,INCLUDES
+Openings,window shape,Directed,INCLUDES
+Openings,window spacing,Directed,INCLUDES
+Openings,door style,Directed,INCLUDES
+Openings,door placement,Directed,INCLUDES
+Openings,opening alignment,Directed,INCLUDES
+Openings,Openings in Plan,Directed,MUST_MATCH
+Openings,Room Type,Directed,CONNECTS_TO
+Roof Design,roof type,Directed,INCLUDES
+Roof Design,roof pitch,Directed,INCLUDES
+Roof Design,parapet / gable form,Directed,INCLUDES
+Roof Design,chimney / roofline details,Directed,INCLUDES
+Materials & Construction,Structural Layout,Directed,CORRESPONDS_TO
+Materials & Construction,Decorative / Style Features,Directed,SUPPORTS
+Materials & Construction,brickwork,Directed,INCLUDES
+Materials & Construction,stone dressings,Directed,INCLUDES
+Materials & Construction,material palette,Directed,INCLUDES
+Materials & Construction,surface texture,Directed,INCLUDES
+Decorative / Style Features,ornamentation,Directed,INCLUDES
+Decorative / Style Features,pilasters / vertical divisions,Directed,INCLUDES
+Decorative / Style Features,string courses / trim,Directed,INCLUDES
+Decorative / Style Features,stylistic language,Directed,INCLUDES
+Visual / Prompt Controls,orthographic view,Directed,INCLUDES
+Visual / Prompt Controls,daylight rendering,Directed,INCLUDES
+Visual / Prompt Controls,neutral background,Directed,INCLUDES
+Visual / Prompt Controls,no people or contextual clutter,Directed,INCLUDES
+Visual / Prompt Controls,Drawing / Prompt Controls,Directed,MIRRORS
+secondary rooms,kitchen,Directed,INCLUDES
+secondary rooms,boiler room,Directed,INCLUDES
+secondary rooms,storage,Directed,INCLUDES
+secondary rooms,office,Directed,INCLUDES
+secondary rooms,toilets,Directed,INCLUDES
+room labels,hall,Directed,IDENTIFIES
+room labels,classrooms,Directed,IDENTIFIES
+room labels,secondary rooms,Directed,IDENTIFIES
+room labels,kitchen,Directed,IDENTIFIES
+room labels,boiler room,Directed,IDENTIFIES
+room labels,storage,Directed,IDENTIFIES
+room labels,office,Directed,IDENTIFIES
+room labels,toilets,Directed,IDENTIFIES
