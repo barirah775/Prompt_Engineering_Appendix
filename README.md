@@ -11,8 +11,8 @@ the study.
 
 Unless explicitly identified as a historical reference image, the
 architectural façades, floorplans, isometric representations, and
-iterative visual outputs contained in this repository are **AI-generated
-experimental outputs** produced during the prompt-engineering workflow
+iterative visual outputs contained in this repository are AI-generated
+experimental outputs produced during the prompt-engineering workflow
 described in the associated paper.
 
 These AI-generated images are not presented as documentary records or
