@@ -1,8 +1,8 @@
 # Prompt Engineering Appendix
 
 This repository contains the full appendix for the paper
-**"Ontology-Guided Prompt Engineering for Contextually Accurate
-Generative AI in Heritage Building Information Modelling."** It
+**"Evaluating Ontology-Guided Prompt Engineering for Contextually Grounding Heritage Visualisation
+in HBIM-Oriented Workflows."** It
 documents the prompting methods, prompt templates, iterative refinement
 processes, experimental results, and supporting visual outputs used in
 the study.
