@@ -42,14 +42,15 @@ method or case study:
 -   `01_structured_chain_of_thought.md`
 -   `02_direct_prompting.md`
 -   `03_reverse_prompting.md`
--   `04_historical_reference_images.md`
--   `05_historical_reference_images_reverse_prompting.md`
--   `06_template_v1_baseline_outputs.md`
--   `07_boolean_logic_prompting.md`
--   `08_template_refinement_case_brunswick.md`
--   `09_template_refinement_case_mill_hill.md`
--   `10_template_refinement_case_saltaire.md`
--   `11_template_v5_regulation_based_interiors.md`
+-   `04_natural_language_weighting.md`
+-   `05_boolean_logic_prompting.md`
+-   `06_historical_reference_images.md`
+-   `07_historical_reference_images_reverse_prompting.md`
+-   `08_template_v1_baseline_outputs.md`
+-   `09_template_refinement_case_brunswick.md`
+-   `10_template_refinement_case_mill_hill.md`
+-   `11_template_refinement_case_saltaire.md`
+-   `12_template_v5_regulation_based_interiors.md`
 
 These documents describe:
 
