@@ -1,7 +1,7 @@
 # Historical Reference Images — Sunday School Architecture
 
 This document records the historical architectural reference images used for prompt template refinement.  
-Each entry presents a reference image first, followed by the original source URL.
+Each entry presents a reference image first, followed by the original source URL. These are not AI-generated.
 
 ---
 
